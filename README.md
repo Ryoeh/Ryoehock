@@ -92,23 +92,6 @@ For the best experience, use an up-to-date version of:
 - Microsoft Edge
 - Safari
 
-## Roadmap
-
-- [x] Real-time world clock
-- [x] Global city search
-- [x] Automatic time zone detection
-- [x] Multiple saved cities
-- [x] Dark and light themes
-- [x] English and Italian localization
-- [x] 12/24-hour clock format
-- [x] Local Storage persistence
-- [x] Responsive interface
-- [ ] Remove and reorder saved cities
-- [ ] Search suggestions while typing
-- [ ] Smooth city transition animations
-- [ ] Improved mobile sidebar
-- [ ] Additional clock customization options
-
 ## License
 
 This project is licensed under the **Ryoeh Proprietary License v1.2**.
