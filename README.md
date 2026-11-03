@@ -8,7 +8,7 @@ Ryoehock lets you search for cities worldwide, discover their local time zones, 
 ## Preview
 
 <p align="center">
-  <img src="Preview.png" width="100%" alt="Ryoehock preview">
+  <img src="images/screenshot/Preview.png" width="100%" alt="Ryoehock preview">
 </p>
 
 ## Features
